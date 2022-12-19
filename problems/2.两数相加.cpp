@@ -15,13 +15,19 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
+struct ListNode {
+    int val;
+    ListNode *next;
+    ListNode() : val(0), next(nullptr) {}
+    ListNode(int x) : val(x), next(nullptr) {}
+    ListNode(int x, ListNode *next) : val(x), next(next) {}
+};
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         int sum = 0;
         //创建虚拟头结点
-        ListNode *dummyHead= new ListNode(0),*res=dummy;
+        ListNode *dummyHead= new ListNode(0),*res=dummyHead;
         while(l1 || l2 || sum){
             if(l1){sum += l1->val; l1=l1->next;}
             if(l2){sum += l2->val; l2=l2->next;}
@@ -29,7 +35,7 @@ public:
             res=res->next;
             sum/=10;
         }
-        return dummy->next;
+        return dummyHead->next;
     }
 };
 // @lc code=end
