@@ -20,3 +20,6 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/xoh6Oh/solution/jian-dan-yi-dong-javac-pythonjs-zheng-sh-e8r6/)
 ### Question 67 [二进制求和](problems/67.二进制求和.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/JFETK5/solution/jian-dan-yi-dong-javacpythonjs-pei-yang-r6bem/)
+
+### Question 338 [比特位计数](problems/338.比特位计数.cpp) <font style="background: green">*E*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/w3tCBm/solution/rang-ni-miao-dong-de-shuang-bai-ti-jie-b-84hh/)
