@@ -23,5 +23,7 @@
 ### Question 137 [只出现一次的数字-ii](problems/137.只出现一次的数字-ii.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/single-number-ii/solution/zhi-chu-xian-yi-ci-de-shu-zi-ii-by-leetc-23t6/)
 
+### Question 318 [最大单词长度乘积](problems/318.最大单词长度乘积.cpp) <font style="background: green">*E*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/aseY1I/solution/pu-tong-ren-bao-kan-dong-de-jian-dan-dai-2ds0/)
 ### Question 338 [比特位计数](problems/338.比特位计数.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/w3tCBm/solution/rang-ni-miao-dong-de-shuang-bai-ti-jie-b-84hh/)
