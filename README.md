@@ -22,6 +22,8 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/JFETK5/solution/jian-dan-yi-dong-javacpythonjs-pei-yang-r6bem/)
 ### Question 137 [只出现一次的数字-ii](problems/137.只出现一次的数字-ii.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/single-number-ii/solution/zhi-chu-xian-yi-ci-de-shu-zi-ii-by-leetc-23t6/)
+### Question 167 [两数之和-ii-输入有序数组](problems/167.两数之和-ii-输入有序数组.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/solution/yi-zhang-tu-gao-su-ni-on-de-shuang-zhi-zhen-jie-fa/)
 
 ### Question 318 [最大单词长度乘积](problems/318.最大单词长度乘积.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/aseY1I/solution/pu-tong-ren-bao-kan-dong-de-jian-dan-dai-2ds0/)
