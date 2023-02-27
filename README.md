@@ -16,6 +16,9 @@
 ### Question 5 [最长回文子串](problems/5.最长回文子串.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://www.bilibili.com/video/BV1UZ4y1U7tt/?spm_id_from=333.999.0.0&vd_source=41cf0bf8fd5d0fd2788aa7ff7dd66abc)
 
+### Question 6 [n-字形变换](problems/6.n-%E5%AD%97%E5%BD%A2%E5%8F%98%E6%8D%A2.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/zigzag-conversion/solution/z-zi-xing-bian-huan-by-leetcode-solution-4n3u/)
+
 ### Question 29 [两数相除](problems/29.两数相除.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/xoh6Oh/solution/jian-dan-yi-dong-javac-pythonjs-zheng-sh-e8r6/)
 ### Question 67 [二进制求和](problems/67.二进制求和.cpp) <font style="background: green">*E*</font>
