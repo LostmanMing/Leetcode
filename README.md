@@ -19,6 +19,9 @@
 ### Question 6 [n-字形变换](problems/6.n-%E5%AD%97%E5%BD%A2%E5%8F%98%E6%8D%A2.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/zigzag-conversion/solution/z-zi-xing-bian-huan-by-leetcode-solution-4n3u/)
 
+### Question 7 [整数反转](problems/7.%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/reverse-integer/solution/tu-jie-guan-fang-tui-jian-ti-jie-zheng-s-rh6b/)
+
 ### Question 29 [两数相除](problems/29.两数相除.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/xoh6Oh/solution/jian-dan-yi-dong-javac-pythonjs-zheng-sh-e8r6/)
 ### Question 67 [二进制求和](problems/67.二进制求和.cpp) <font style="background: green">*E*</font>
