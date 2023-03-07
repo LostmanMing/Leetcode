@@ -41,3 +41,6 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/aseY1I/solution/pu-tong-ren-bao-kan-dong-de-jian-dan-dai-2ds0/)
 ### Question 338 [比特位计数](problems/338.比特位计数.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/w3tCBm/solution/rang-ni-miao-dong-de-shuang-bai-ti-jie-b-84hh/)
+
+### Question 713 [乘积小于-k-的子数组](problems/713.%E4%B9%98%E7%A7%AF%E5%B0%8F%E4%BA%8E-k-%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/ZVAVXX/solution/cheng-ji-xiao-yu-k-de-zi-shu-zu-by-leetc-xqx8/)
