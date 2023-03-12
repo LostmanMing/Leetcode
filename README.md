@@ -50,6 +50,9 @@
 ### Question 560 [和为-k-的子数组](problems/560.%E5%92%8C%E4%B8%BA-k-%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/subarray-sum-equals-k/solution/he-wei-kde-zi-shu-zu-by-leetcode-solution/) 
 - ***前缀和 + 哈希表***
+### Question 567 [字符串的排列](problems/567.%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/permutation-in-string/solution/zhu-shi-chao-xiang-xi-de-hua-dong-chuang-rc7d/) 
+- ***滑动窗口  双指针 哈希表***
 
 ### Question 713 [乘积小于-k-的子数组](problems/713.%E4%B9%98%E7%A7%AF%E5%B0%8F%E4%BA%8E-k-%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/ZVAVXX/solution/cheng-ji-xiao-yu-k-de-zi-shu-zu-by-leetc-xqx8/)
