@@ -34,6 +34,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/minimum-window-substring/solution/tong-su-qie-xiang-xi-de-miao-shu-hua-dong-chuang-k/)
 - ***滑动窗口 双指针 哈希表***
 
+###  Question 125 [验证回文串](/problems/125.%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.cpp)  <font style="background: green">*E*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/valid-palindrome/solution/yan-zheng-hui-wen-chuan-by-leetcode-solution/)  
+- ***双指针 对撞指针 c库函数 isalmun() tolower()***
+
 ### Question 137 [只出现一次的数字-ii](problems/137.只出现一次的数字-ii.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/single-number-ii/solution/zhi-chu-xian-yi-ci-de-shu-zi-ii-by-leetc-23t6/)
 ### Question 167 [两数之和-ii-输入有序数组](problems/167.两数之和-ii-输入有序数组.cpp) <font style="background: yellow">*M*</font>
