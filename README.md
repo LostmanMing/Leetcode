@@ -67,10 +67,17 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/permutation-in-string/solution/zhu-shi-chao-xiang-xi-de-hua-dong-chuang-rc7d/) 
 - ***滑动窗口  双指针 哈希表***
 
+### Question 647 [回文子串](problems/647.%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/palindromic-substrings/solution/liang-dao-hui-wen-zi-chuan-de-jie-fa-xiang-jie-zho/) 
+- ***中心扩展 双指针***
+
+### Question 680 [验证回文串-ii](problems/680.%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2-ii.cpp) <font style="background: green">*E*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/RQku0D/solution/zui-duo-shan-chu-yi-ge-zi-fu-de-dao-hui-30b55/)
+- ***双指针***
+
 ### Question 713 [乘积小于-k-的子数组](problems/713.%E4%B9%98%E7%A7%AF%E5%B0%8F%E4%BA%8E-k-%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/ZVAVXX/solution/cheng-ji-xiao-yu-k-de-zi-shu-zu-by-leetc-xqx8/)
 
 ### Question 724 [寻找数组的中心下标](problems/724.%E5%AF%BB%E6%89%BE%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E5%BF%83%E4%B8%8B%E6%A0%87.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/tvdfij/solution/zuo-you-liang-bian-zi-shu-zu-de-he-xiang-5j4r/)
-
 - ***前缀和   accumulate求和***
