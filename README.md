@@ -47,6 +47,11 @@
 ### Question 142 [环形链表-ii](problems/142.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8-ii.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/linked-list-cycle-ii/solution/linked-list-cycle-ii-kuai-man-zhi-zhen-shuang-zhi-/)
 - ***哈希表***
+
+###  Question 160 [相交链表](/problems/160.%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.cpp)  <font style="background: green">*E*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/intersection-of-two-linked-lists/solution/intersection-of-two-linked-lists-shuang-zhi-zhen-l/)  
+- ***双指针***
+  
 ### Question 167 [两数之和-ii-输入有序数组](problems/167.两数之和-ii-输入有序数组.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/solution/yi-zhang-tu-gao-su-ni-on-de-shuang-zhi-zhen-jie-fa/)
 
