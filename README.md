@@ -73,6 +73,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/find-all-anagrams-in-a-string/solution/zhao-dao-zi-fu-chuan-zhong-suo-you-zi-mu-xzin/) 
 - ***滑动窗口 双指针 哈希表***
 
+### Question 445 [两数相加-ii](problems/445.%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0-ii.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/add-two-numbers-ii/solution/liang-shu-xiang-jia-ii-by-leetcode-solution/) 
+- ***链表 栈 逆序处理***
+
 ### Question 525 [连续数组](problems/525.%E8%BF%9E%E7%BB%AD%E6%95%B0%E7%BB%84.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/A1NYOS/solution/0-he-1-ge-shu-xiang-tong-de-zi-shu-zu-by-xbyt/) 
 - ***前缀和 + 哈希表***
