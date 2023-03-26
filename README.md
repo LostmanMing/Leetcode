@@ -48,6 +48,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/linked-list-cycle-ii/solution/linked-list-cycle-ii-kuai-man-zhi-zhen-shuang-zhi-/)
 - ***哈希表***
 
+### Question 143 [重排链表](problems/143.%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/reorder-list/solution/cbi-jiao-you-tiao-li-de-yi-chong-xie-fa-l56fx/)
+- ***链表 双指针  链表中点 + 反转链表（206） + 链表合并***
+
 ###  Question 160 [相交链表](/problems/160.%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.cpp)  <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/intersection-of-two-linked-lists/solution/intersection-of-two-linked-lists-shuang-zhi-zhen-l/)  
 - ***双指针***
