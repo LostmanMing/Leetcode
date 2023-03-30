@@ -70,6 +70,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/palindrome-linked-list/solution/kuai-man-zhi-zhen-fan-zhuan-lian-biao-on-pf80//fan-zhuan-lian-biao-shuang-zhi-zhen-di-gui-yao-mo-/)  
 - ***双指针 链表  链表中点 + 反转链表（206）***
 
+###  Question 242 [有效的字母异位词](/problems/242.%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.cpp)  <font style="background: green">*E*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/valid-anagram/solution/you-xiao-de-zi-mu-yi-wei-ci-by-leetcode-solution/)  
+- ***哈希表***
+
 ### Question 304 [二维区域和检索-矩阵不可变](problems/304.%E4%BA%8C%E7%BB%B4%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2-%E7%9F%A9%E9%98%B5%E4%B8%8D%E5%8F%AF%E5%8F%98.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/range-sum-query-2d-immutable/solution/ru-he-qiu-er-wei-de-qian-zhui-he-yi-ji-y-6c21/)
 - ***前缀和矩阵***
