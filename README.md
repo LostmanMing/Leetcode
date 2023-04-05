@@ -52,6 +52,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/reorder-list/solution/cbi-jiao-you-tiao-li-de-yi-chong-xie-fa-l56fx/)
 - ***链表 双指针  链表中点 + 反转链表（206） + 链表合并***
 
+### Question 146 [lru-缓存](problems/146.lru-%E7%BC%93%E5%AD%98.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/lru-cache/solution/lru-ce-lue-xiang-jie-he-shi-xian-by-labuladong/)
+- ***数据结构运用  哈希表 双向链表 O(1)***
+
 ###  Question 160 [相交链表](/problems/160.%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.cpp)  <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/intersection-of-two-linked-lists/solution/intersection-of-two-linked-lists-shuang-zhi-zhen-l/)  
 - ***双指针***
