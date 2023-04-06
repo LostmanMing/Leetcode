@@ -135,3 +135,7 @@
 ### Question 724 [寻找数组的中心下标](problems/724.%E5%AF%BB%E6%89%BE%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E5%BF%83%E4%B8%8B%E6%A0%87.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/tvdfij/solution/zuo-you-liang-bian-zi-shu-zu-de-he-xiang-5j4r/)
 - ***前缀和  accumulate求和***
+
+### Question 953 [验证外星语词典](problems/953.%E9%AA%8C%E8%AF%81%E5%A4%96%E6%98%9F%E8%AF%AD%E8%AF%8D%E5%85%B8.cpp) <font style="background: green">*E*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/verifying-an-alien-dictionary/solution/by-fuxuemingzhu-d81b/)
+- ***加解密***
