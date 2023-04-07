@@ -110,6 +110,11 @@
 ### Question 525 [连续数组](problems/525.%E8%BF%9E%E7%BB%AD%E6%95%B0%E7%BB%84.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/A1NYOS/solution/0-he-1-ge-shu-xiang-tong-de-zi-shu-zu-by-xbyt/) 
 - ***前缀和 + 哈希表***
+
+### Question 539 [最小时间差](problems/539.%E6%9C%80%E5%B0%8F%E6%97%B6%E9%97%B4%E5%B7%AE.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/minimum-time-difference/solution/gong-shui-san-xie-jian-dan-mo-ni-ti-by-a-eygg/) 
+- ***排序 时间处理 字符串转整型***
+
 ### Question 560 [和为-k-的子数组](problems/560.%E5%92%8C%E4%B8%BA-k-%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/subarray-sum-equals-k/solution/he-wei-kde-zi-shu-zu-by-leetcode-solution/) 
 - ***前缀和 + 哈希表***
