@@ -61,6 +61,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/lru-cache/solution/lru-ce-lue-xiang-jie-he-shi-xian-by-labuladong/)
 - ***数据结构运用  哈希表 双向链表 O(1)***
 
+### Question 150 [逆波兰表达式求值](problems/150.%E9%80%86%E6%B3%A2%E5%85%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B1%82%E5%80%BC.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/evaluate-reverse-polish-notation/solution/ni-bo-lan-biao-da-shi-qiu-jie-cjian-dan-k5uft/)
+- ***栈***
+
 ###  Question 160 [相交链表](/problems/160.%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.cpp)  <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/intersection-of-two-linked-lists/solution/intersection-of-two-linked-lists-shuang-zhi-zhen-l/)  
 - ***双指针***
@@ -140,6 +144,11 @@
 ### Question 724 [寻找数组的中心下标](problems/724.%E5%AF%BB%E6%89%BE%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E5%BF%83%E4%B8%8B%E6%A0%87.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/tvdfij/solution/zuo-you-liang-bian-zi-shu-zu-de-he-xiang-5j4r/)
 - ***前缀和  accumulate求和***
+
+
+### Question 735 [行星碰撞](problems/735.%E8%A1%8C%E6%98%9F%E7%A2%B0%E6%92%9E.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/asteroid-collision/solution/by-meteordream-bn0f/)
+- ***栈***
 
 ### Question 953 [验证外星语词典](problems/953.%E9%AA%8C%E8%AF%81%E5%A4%96%E6%98%9F%E8%AF%AD%E8%AF%8D%E5%85%B8.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/verifying-an-alien-dictionary/solution/by-fuxuemingzhu-d81b/)
