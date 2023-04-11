@@ -42,6 +42,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/minimum-window-substring/solution/tong-su-qie-xiang-xi-de-miao-shu-hua-dong-chuang-k/)
 - ***滑动窗口 双指针 哈希表***
 
+### Question 84 [最小覆盖子串](problems/84.%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2.cpp) <font style="background: RED">*H*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/largest-rectangle-in-histogram/solution/84-by-ikaruga/)
+- ***单调递增栈***
+
 ###  Question 125 [验证回文串](/problems/125.%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.cpp)  <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/valid-palindrome/solution/yan-zheng-hui-wen-chuan-by-leetcode-solution/)  
 - ***双指针 对撞指针 c库函数 isalmun() tolower()***
