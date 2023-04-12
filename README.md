@@ -42,8 +42,12 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/minimum-window-substring/solution/tong-su-qie-xiang-xi-de-miao-shu-hua-dong-chuang-k/)
 - ***滑动窗口 双指针 哈希表***
 
-### Question 84 [最小覆盖子串](problems/84.%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2.cpp) <font style="background: RED">*H*</font>
+### Question 84 [柱状图中最大的矩形](problems/84.%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2.cpp) <font style="background: RED">*H*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/largest-rectangle-in-histogram/solution/84-by-ikaruga/)
+- ***单调递增栈***
+
+### Question 85 [最大矩形](problems/85.%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2.cpp) <font style="background: RED">*H*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/maximal-rectangle/solution/maximal-rectangle-by-ikaruga-idh2/)
 - ***单调递增栈***
 
 ###  Question 125 [验证回文串](/problems/125.%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.cpp)  <font style="background: green">*E*</font>
@@ -98,6 +102,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/aseY1I/solution/pu-tong-ren-bao-kan-dong-de-jian-dan-dai-2ds0/)
 ### Question 338 [比特位计数](problems/338.比特位计数.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/w3tCBm/solution/rang-ni-miao-dong-de-shuang-bai-ti-jie-b-84hh/)
+
+### Question 346 [滑动窗口平均值](problems/346.%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E5%B9%B3%E5%9D%87%E5%80%BC.cpp) <font style="background: green">*E*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/qIsx9U/solution/hua-dong-chuang-kou-dui-lie-xun-huan-shu-hjg5/)
+- ***队列***
 
 ### Question 380 [o-1-时间插入、删除和获取随机元素](problems/380.o-1-%E6%97%B6%E9%97%B4%E6%8F%92%E5%85%A5%E3%80%81%E5%88%A0%E9%99%A4%E5%92%8C%E8%8E%B7%E5%8F%96%E9%9A%8F%E6%9C%BA%E5%85%83%E7%B4%A0.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/insert-delete-getrandom-o1/solution/cchang-shu-shi-jian-cha-ru-shan-chu-he-huo-qu-sui-/) 
