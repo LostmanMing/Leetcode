@@ -167,6 +167,14 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/daily-temperatures/solution/leetcode-tu-jie-739mei-ri-wen-du-by-misterbooo/)
 - ***单调递减栈***
 
+### Question 919 [完全二叉树插入器](problems/919.%E5%AE%8C%E5%85%A8%E4%BA%8C%E5%8F%89%E6%A0%91%E6%8F%92%E5%85%A5%E5%99%A8.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/complete-binary-tree-inserter/solution/wan-quan-er-cha-shu-cha-ru-qi-by-leetcod-lf8t/)
+- ***单调递减栈***
+
+### Question 933 [最近的请求次数](problems/933.%E6%9C%80%E8%BF%91%E7%9A%84%E8%AF%B7%E6%B1%82%E6%AC%A1%E6%95%B0.cpp) <font style="background: green">*E*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/number-of-recent-calls/solution/by-nehzil-9het/)
+- ***队列***
+
 ### Question 953 [验证外星语词典](problems/953.%E9%AA%8C%E8%AF%81%E5%A4%96%E6%98%9F%E8%AF%AD%E8%AF%8D%E5%85%B8.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/verifying-an-alien-dictionary/solution/by-fuxuemingzhu-d81b/)
 - ***加解密***
