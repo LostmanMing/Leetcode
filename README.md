@@ -123,6 +123,14 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/add-two-numbers-ii/solution/liang-shu-xiang-jia-ii-by-leetcode-solution/) 
 - ***链表 栈 逆序处理***
 
+### Question 513 [找树左下角的值](problems/513.%E6%89%BE%E6%A0%91%E5%B7%A6%E4%B8%8B%E8%A7%92%E7%9A%84%E5%80%BC.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/find-bottom-left-tree-value/solution/zhao-shu-zuo-xia-jiao-de-zhi-by-leetcode-weeh/) 
+- ***二叉树 队列 层序优先遍历（从右向左） 深度优先搜索***
+
+### Question 515 [在每个树行中找最大值](problems/515.%E5%9C%A8%E6%AF%8F%E4%B8%AA%E6%A0%91%E8%A1%8C%E4%B8%AD%E6%89%BE%E6%9C%80%E5%A4%A7%E5%80%BC.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/solution/zai-mei-ge-shu-xing-zhong-zhao-zui-da-zh-6xbs/) 
+- ***二叉树 队列 层序优先遍历***
+
 ### Question 525 [连续数组](problems/525.%E8%BF%9E%E7%BB%AD%E6%95%B0%E7%BB%84.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/A1NYOS/solution/0-he-1-ge-shu-xiang-tong-de-zi-shu-zu-by-xbyt/) 
 - ***前缀和 + 哈希表***
@@ -169,7 +177,7 @@
 
 ### Question 919 [完全二叉树插入器](problems/919.%E5%AE%8C%E5%85%A8%E4%BA%8C%E5%8F%89%E6%A0%91%E6%8F%92%E5%85%A5%E5%99%A8.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/complete-binary-tree-inserter/solution/wan-quan-er-cha-shu-cha-ru-qi-by-leetcod-lf8t/)
-- ***单调递减栈***
+- ***队列 二叉树 层序优先遍历***
 
 ### Question 933 [最近的请求次数](problems/933.%E6%9C%80%E8%BF%91%E7%9A%84%E8%AF%B7%E6%B1%82%E6%AC%A1%E6%95%B0.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/number-of-recent-calls/solution/by-nehzil-9het/)
