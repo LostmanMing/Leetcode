@@ -179,6 +179,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/daily-temperatures/solution/leetcode-tu-jie-739mei-ri-wen-du-by-misterbooo/)
 - ***单调递减栈***
 
+### Question 814 [二叉树剪枝](problems/814.%E4%BA%8C%E5%8F%89%E6%A0%91%E5%89%AA%E6%9E%9D.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/binary-tree-pruning/solution/tong-su-yi-dong-by-mei-tian-duo-zuo-yi-d-9hz1/)
+- ***二叉树 深度优先遍历***
+
 ### Question 919 [完全二叉树插入器](problems/919.%E5%AE%8C%E5%85%A8%E4%BA%8C%E5%8F%89%E6%A0%91%E6%8F%92%E5%85%A5%E5%99%A8.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/complete-binary-tree-inserter/solution/wan-quan-er-cha-shu-cha-ru-qi-by-leetcod-lf8t/)
 - ***队列 二叉树 层序优先遍历***
