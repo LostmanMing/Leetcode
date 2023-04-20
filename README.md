@@ -99,6 +99,11 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/valid-anagram/solution/you-xiao-de-zi-mu-yi-wei-ci-by-leetcode-solution/)  
 - ***哈希表***
 
+###  Question 297 [二叉树的序列化与反序列化](/problems/297.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.cpp)  <font style="background: red">*H*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/solution/by-peaceful-thompsonfsu-8143/)  
+- [x] [动画展示dfs前中后序遍历二叉树](https://www.bilibili.com/video/BV1MF41147Ga/?spm_id_from=333.337.search-card.all.click&vd_source=41cf0bf8fd5d0fd2788aa7ff7dd66abc)
+- ***二叉树 dfs遍历/构造二叉树***
+
 ### Question 304 [二维区域和检索-矩阵不可变](problems/304.%E4%BA%8C%E7%BB%B4%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2-%E7%9F%A9%E9%98%B5%E4%B8%8D%E5%8F%AF%E5%8F%98.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/range-sum-query-2d-immutable/solution/ru-he-qiu-er-wei-de-qian-zhui-he-yi-ji-y-6c21/)
 - ***前缀和矩阵***
