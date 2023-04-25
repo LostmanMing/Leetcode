@@ -50,6 +50,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/maximal-rectangle/solution/maximal-rectangle-by-ikaruga-idh2/)
 - ***单调递增栈***
 
+###  Question 124 [二叉树中的最大路径和](/problems/124.%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E8%B7%AF%E5%BE%84%E5%92%8C.cpp)  <font style="background: green">*E*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/binary-tree-maximum-path-sum/solution/er-cha-shu-zhong-de-zui-da-lu-jing-he-by-ikaruga/)  
+- ***二叉树 dfs***
+
 ###  Question 125 [验证回文串](/problems/125.%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.cpp)  <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/valid-palindrome/solution/yan-zheng-hui-wen-chuan-by-leetcode-solution/)  
 - ***双指针 对撞指针 c库函数 isalmun() tolower()***
@@ -195,6 +199,10 @@
 ### Question 814 [二叉树剪枝](problems/814.%E4%BA%8C%E5%8F%89%E6%A0%91%E5%89%AA%E6%9E%9D.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/binary-tree-pruning/solution/tong-su-yi-dong-by-mei-tian-duo-zuo-yi-d-9hz1/)
 - ***二叉树 深度优先遍历***
+
+### Question 897 [递增顺序搜索树](problems/897.%E9%80%92%E5%A2%9E%E9%A1%BA%E5%BA%8F%E6%90%9C%E7%B4%A2%E6%A0%91.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/increasing-order-search-tree/solution/zhong-xu-bian-li-shuang-bai-tong-guo-by-jesse-42/)
+- ***二叉树 dfs 中序遍历***
 
 ### Question 919 [完全二叉树插入器](problems/919.%E5%AE%8C%E5%85%A8%E4%BA%8C%E5%8F%89%E6%A0%91%E6%8F%92%E5%85%A5%E5%99%A8.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/complete-binary-tree-inserter/solution/wan-quan-er-cha-shu-cha-ru-qi-by-leetcod-lf8t/)
