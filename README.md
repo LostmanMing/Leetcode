@@ -156,6 +156,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/A1NYOS/solution/0-he-1-ge-shu-xiang-tong-de-zi-shu-zu-by-xbyt/) 
 - ***前缀和 + 哈希表***
 
+### Question 538 [把二叉搜索树转换为累加树](problems/538.%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%BD%AC%E6%8D%A2%E4%B8%BA%E7%B4%AF%E5%8A%A0%E6%A0%91.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/convert-bst-to-greater-tree/solution/-by-loving-booth9o9-6rzn/) 
+- ***二叉搜索树 逆中序遍历 dfs***
+
 ### Question 539 [最小时间差](problems/539.%E6%9C%80%E5%B0%8F%E6%97%B6%E9%97%B4%E5%B7%AE.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/minimum-time-difference/solution/gong-shui-san-xie-jian-dan-mo-ni-ti-by-a-eygg/) 
 - ***排序 时间处理 字符串转整型***
