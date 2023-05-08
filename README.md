@@ -99,6 +99,10 @@
 ### Question 209 [长度最小的子数组](problems/209.%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/2VG8Kg/solution/he-da-yu-deng-yu-target-de-zui-duan-zi-s-ixef/)
 
+###  Question 220 [存在重复元素-iii](/problems/220.%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0-iii.cpp)  <font style="background: red">*H*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/contains-duplicate-iii/solution/gong-shui-san-xie-yi-ti-shuang-jie-hua-d-dlnv/)  
+- ***桶排序***
+
 ###  Question 234 [回文链表](/problems/234.%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.cpp)  <font style="background: green">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/palindrome-linked-list/solution/kuai-man-zhi-zhen-fan-zhuan-lian-biao-on-pf80//fan-zhuan-lian-biao-shuang-zhi-zhen-di-gui-yao-mo-/)  
 - ***双指针 链表  链表中点 + 反转链表（206）***
