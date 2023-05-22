@@ -195,6 +195,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/palindromic-substrings/solution/liang-dao-hui-wen-zi-chuan-de-jie-fa-xiang-jie-zho/) 
 - ***中心扩展 双指针***
 
+### Question 648 [单词替换](problems/648.%E5%8D%95%E8%AF%8D%E6%9B%BF%E6%8D%A2.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/replace-words/solution/-by-yexx-my6r/) 
+- ***前缀树 string流***
+
 ### Question 653 [两数之和-iv-输入二叉搜索树](problems/653.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C-iv-%E8%BE%93%E5%85%A5%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/two-sum-iv-input-is-a-bst/solution/dfs-shuang-zhi-zhen-by-stupefied-i2ide0s-5isv/) 
 - ***二叉搜索树 dfs 双指针***
