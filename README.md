@@ -203,6 +203,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/two-sum-iv-input-is-a-bst/solution/dfs-shuang-zhi-zhen-by-stupefied-i2ide0s-5isv/) 
 - ***二叉搜索树 dfs 双指针***
 
+### Question 676 [实现一个魔法字典](problems/676.%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E9%AD%94%E6%B3%95%E5%AD%97%E5%85%B8.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/US1pGT/solution/jian-zhi-offer-2-mian-shi-ti-64-shu-zhon-uctz/) 
+- ***前缀树 dfs***
+
 ### Question 680 [验证回文串-ii](problems/680.%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2-ii.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/RQku0D/solution/zui-duo-shan-chu-yi-ge-zi-fu-de-dao-hui-30b55/)
 - ***双指针***
