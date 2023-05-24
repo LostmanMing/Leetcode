@@ -243,6 +243,11 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/binary-tree-pruning/solution/tong-su-yi-dong-by-mei-tian-duo-zuo-yi-d-9hz1/)
 - ***二叉树 深度优先遍历***
 
+
+### Question 820 [单词的压缩编码](problems/820.%E5%8D%95%E8%AF%8D%E7%9A%84%E5%8E%8B%E7%BC%A9%E7%BC%96%E7%A0%81.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/short-encoding-of-words/solution/shou-si-zi-dian-shu-trie-shu-c-by-time-limit/)
+- ***字典树 递归***
+
 ### Question 897 [递增顺序搜索树](problems/897.%E9%80%92%E5%A2%9E%E9%A1%BA%E5%BA%8F%E6%90%9C%E7%B4%A2%E6%A0%91.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/increasing-order-search-tree/solution/zhong-xu-bian-li-shuang-bai-tong-guo-by-jesse-42/)
 - ***二叉树 dfs 中序遍历***
