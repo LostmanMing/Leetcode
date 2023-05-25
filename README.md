@@ -207,6 +207,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/US1pGT/solution/jian-zhi-offer-2-mian-shi-ti-64-shu-zhon-uctz/) 
 - ***前缀树 dfs***
 
+### Question 677 [键值映射](problems/677.%E9%94%AE%E5%80%BC%E6%98%A0%E5%B0%84.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/map-sum-pairs/solution/c-shi-yong-qian-zhui-shu-dfs-by-xrocket-3hde/) 
+- ***前缀树 dfs***
+
 ### Question 680 [验证回文串-ii](problems/680.%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2-ii.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/RQku0D/solution/zui-duo-shan-chu-yi-ge-zi-fu-de-dao-hui-30b55/)
 - ***双指针***
