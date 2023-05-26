@@ -142,11 +142,15 @@
 
 ### Question 373 [查找和最小的-k-对数字](problems/373.%E6%9F%A5%E6%89%BE%E5%92%8C%E6%9C%80%E5%B0%8F%E7%9A%84-k-%E5%AF%B9%E6%95%B0%E5%AD%97.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/find-k-pairs-with-smallest-sums/solution/cqing-xi-jian-ji-dai-ma-by-xiaohu9527-kc1x/) 
-- ***优先队列priority_queue ***
+- ***优先队列priority_queue***
 
 ### Question 380 [o-1-时间插入、删除和获取随机元素](problems/380.o-1-%E6%97%B6%E9%97%B4%E6%8F%92%E5%85%A5%E3%80%81%E5%88%A0%E9%99%A4%E5%92%8C%E8%8E%B7%E5%8F%96%E9%9A%8F%E6%9C%BA%E5%85%83%E7%B4%A0.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/insert-delete-getrandom-o1/solution/cchang-shu-shi-jian-cha-ru-shan-chu-he-huo-qu-sui-/) 
 - ***数据结构运用 hash vector O(1)***
+
+### Question 421 [数组中两个数的最大异或值](problems/421.%E6%95%B0%E7%BB%84%E4%B8%AD%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E5%BC%82%E6%88%96%E5%80%BC.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/ms70jA/) 
+- ***字典树 两数异或^***
 
 ### Question 430 [扁平化多级双向链表](problems/430.%E6%89%81%E5%B9%B3%E5%8C%96%E5%A4%9A%E7%BA%A7%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/flatten-a-multilevel-doubly-linked-list/solution/-by-loving-booth9o9-6tct/) 
@@ -217,7 +221,7 @@
 
 ### Question 703 [数据流中的第-k-大元素](problems/703.%E6%95%B0%E6%8D%AE%E6%B5%81%E4%B8%AD%E7%9A%84%E7%AC%AC-k-%E5%A4%A7%E5%85%83%E7%B4%A0.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/4ueAj6/solution/gan-jue-da-jia-xie-de-du-you-dian-fu-za-k1klz/)
-- ***muiltset自动排序 ***
+- ***muiltset自动排序***
 
 ### Question 708 [排序的循环链表](problems/708.%E6%8E%92%E5%BA%8F%E7%9A%84%E5%BE%AA%E7%8E%AF%E9%93%BE%E8%A1%A8.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/4ueAj6/solution/gan-jue-da-jia-xie-de-du-you-dian-fu-za-k1klz/)
