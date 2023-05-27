@@ -31,6 +31,11 @@
 ### Question 29 [两数相除](problems/29.两数相除.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/xoh6Oh/solution/jian-dan-yi-dong-javac-pythonjs-zheng-sh-e8r6/)
 
+
+### Question 35 [搜索插入位置](problems/35.%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/search-insert-position/solution/er-fen-mo-ban-ti-by-xiaojian-zhong-5oge/)
+- ***标准二分***
+
 ### Question 49 [字母异位词分组](problems/49.%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/group-anagrams/solution/bu-zhui-qiu-zui-gao-de-xiao-lu-zhi-zhui-38bdv/)
 - ***哈希表 排序***
