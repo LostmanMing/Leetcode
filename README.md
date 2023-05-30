@@ -261,6 +261,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/short-encoding-of-words/solution/shou-si-zi-dian-shu-trie-shu-c-by-time-limit/)
 - ***字典树 递归***
 
+### Question 852 [山脉数组的峰顶索引](problems/852.%E5%B1%B1%E8%84%89%E6%95%B0%E7%BB%84%E7%9A%84%E5%B3%B0%E9%A1%B6%E7%B4%A2%E5%BC%95.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/B1IidL/solution/wei-rao-li-lun-kan-dao-logn-jiu-shi-er-f-csom/)
+- ***二分***
+
 ### Question 897 [递增顺序搜索树](problems/897.%E9%80%92%E5%A2%9E%E9%A1%BA%E5%BA%8F%E6%90%9C%E7%B4%A2%E6%A0%91.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/increasing-order-search-tree/solution/zhong-xu-bian-li-shuang-bai-tong-guo-by-jesse-42/)
 - ***二叉树 dfs 中序遍历***
