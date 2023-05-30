@@ -193,6 +193,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/minimum-time-difference/solution/gong-shui-san-xie-jian-dan-mo-ni-ti-by-a-eygg/) 
 - ***排序 时间处理 字符串转整型***
 
+### Question 540 [有序数组中的单一元素](problems/540.%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E5%8D%95%E4%B8%80%E5%85%83%E7%B4%A0.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/single-element-in-a-sorted-array/solution/wei-rao-li-lun-lognfu-za-du-er-fen-jie-j-w2rr/) 
+- ***二分***
+
 ### Question 560 [和为-k-的子数组](problems/560.%E5%92%8C%E4%B8%BA-k-%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/subarray-sum-equals-k/solution/he-wei-kde-zi-shu-zu-by-leetcode-solution/) 
 - ***前缀和 + 哈希表***
