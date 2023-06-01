@@ -43,6 +43,10 @@
 ### Question 67 [二进制求和](problems/67.二进制求和.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/JFETK5/solution/jian-dan-yi-dong-javacpythonjs-pei-yang-r6bem/)
 
+### Question 69 [x-的平方根](problems/69.x-%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9.cpp) <font style="background: green">*E*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/sqrtx/solution/x-de-ping-fang-gen-by-gpe3dbjds1/)
+- ***sqrt() 二分***
+
 ### Question 76 [最小覆盖子串](problems/76.%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.cpp) <font style="background: RED">*H*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/minimum-window-substring/solution/tong-su-qie-xiang-xi-de-miao-shu-hua-dong-chuang-k/)
 - ***滑动窗口 双指针 哈希表***
