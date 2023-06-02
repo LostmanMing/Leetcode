@@ -277,6 +277,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/B1IidL/solution/wei-rao-li-lun-kan-dao-logn-jiu-shi-er-f-csom/)
 - ***二分***
 
+### Question 857 [爱吃香蕉的珂珂](problems/875.%E7%88%B1%E5%90%83%E9%A6%99%E8%95%89%E7%9A%84%E7%8F%82%E7%8F%82.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/koko-eating-bananas/solution/by-meteordream-p760/)
+- ***二分***
+
 ### Question 897 [递增顺序搜索树](problems/897.%E9%80%92%E5%A2%9E%E9%A1%BA%E5%BA%8F%E6%90%9C%E7%B4%A2%E6%A0%91.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/increasing-order-search-tree/solution/zhong-xu-bian-li-shuang-bai-tong-guo-by-jesse-42/)
 - ***二叉树 dfs 中序遍历***
