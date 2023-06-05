@@ -40,6 +40,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/group-anagrams/solution/bu-zhui-qiu-zui-gao-de-xiao-lu-zhi-zhui-38bdv/)
 - ***哈希表 排序***
 
+### Question 56 [合并区间](problems/56.%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/merge-intervals/solution/xian-pai-xu-zai-he-bing-yun-han-yi-dian-e618f/)
+- ***排序***
+
 ### Question 67 [二进制求和](problems/67.二进制求和.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/JFETK5/solution/jian-dan-yi-dong-javacpythonjs-pei-yang-r6bem/)
 
