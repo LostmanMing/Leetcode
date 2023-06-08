@@ -86,6 +86,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/lru-cache/solution/lru-ce-lue-xiang-jie-he-shi-xian-by-labuladong/)
 - ***数据结构运用  哈希表 双向链表 O(1)***
 
+### Question 148 [排序链表](problems/148.%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/sort-list/solution/148-pai-xu-lian-biao-bottom-to-up-o1-kong-jian-by-/)
+- ***链表归并排序 O(1)***
+
 ### Question 150 [逆波兰表达式求值](problems/150.%E9%80%86%E6%B3%A2%E5%85%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B1%82%E5%80%BC.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/evaluate-reverse-polish-notation/solution/ni-bo-lan-biao-da-shi-qiu-jie-cjian-dan-k5uft/)
 - ***栈***
