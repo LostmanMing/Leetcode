@@ -60,6 +60,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/minimum-window-substring/solution/tong-su-qie-xiang-xi-de-miao-shu-hua-dong-chuang-k/)
 - ***滑动窗口 双指针 哈希表***
 
+### Question 78 [子集](problems/78.%E5%AD%90%E9%9B%86.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程/回溯题型总结](https://leetcode.cn/problems/subsets/solution/c-zong-jie-liao-hui-su-wen-ti-lei-xing-dai-ni-gao-/)
+- ***回溯***
+
 ### Question 84 [柱状图中最大的矩形](problems/84.%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2.cpp) <font style="background: RED">*H*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/largest-rectangle-in-histogram/solution/84-by-ikaruga/)
 - ***单调递增栈***
