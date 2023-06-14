@@ -43,7 +43,11 @@
 
 ### Question 39 [组合总和](problems/39.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/combination-sum/solution/dai-ma-sui-xiang-lu-dai-ni-xue-tou-hui-s-7tum/)
-- ***回溯  组合***
+- ***回溯  可重复组合***
+
+### Question 40[组合总和-ii](problems/40.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C-ii.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/combination-sum-ii/solution/dai-ma-sui-xiang-lu-dai-ni-xue-tou-hui-s-ig29/)
+- ***回溯  不可重复组合***
 
 ### Question 49 [字母异位词分组](problems/49.%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/group-anagrams/solution/bu-zhui-qiu-zui-gao-de-xiao-lu-zhi-zhui-38bdv/)
