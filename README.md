@@ -49,6 +49,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/combination-sum-ii/solution/dai-ma-sui-xiang-lu-dai-ni-xue-tou-hui-s-ig29/)
 - ***回溯  不可重复组合***
 
+### Question 46[全排列](problems/46.%E5%85%A8%E6%8E%92%E5%88%97.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/permutations/solution/dai-ma-sui-xiang-lu-dai-ni-xue-tou-hui-s-mfrp/)
+- ***回溯  全排列***
+
 ### Question 49 [字母异位词分组](problems/49.%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/group-anagrams/solution/bu-zhui-qiu-zui-gao-de-xiao-lu-zhi-zhui-38bdv/)
 - ***哈希表 排序***
