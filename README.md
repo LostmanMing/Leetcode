@@ -51,7 +51,11 @@
 
 ### Question 46[全排列](problems/46.%E5%85%A8%E6%8E%92%E5%88%97.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/permutations/solution/dai-ma-sui-xiang-lu-dai-ni-xue-tou-hui-s-mfrp/)
-- ***回溯  全排列***
+- ***回溯  无重复元素的全排列***
+
+### Question 47[全排列-ii](problems/47.%E5%85%A8%E6%8E%92%E5%88%97-ii.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/permutations-ii/solution/dai-ma-sui-xiang-lu-dai-ni-xue-tou-hui-s-ki1h/)
+- ***回溯  有重复元素的全排列（需要去重）***
 
 ### Question 49 [字母异位词分组](problems/49.%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/group-anagrams/solution/bu-zhui-qiu-zui-gao-de-xiao-lu-zhi-zhui-38bdv/)
