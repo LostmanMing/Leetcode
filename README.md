@@ -29,6 +29,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/solution/dong-hua-tu-jie-leetcode-di-19-hao-wen-ti-shan-chu/)
 - ***链表遍历 双指针***
 
+### Question 22 [括号生成](problems/22.%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/generate-parentheses/solution/dfs-jian-zhi-de-ji-jian-si-lu-by-zhywann-ff75/)
+- ***递归 dfs***
+
 ### Question 23 [合并-k-个升序链表](problems/23.%E5%90%88%E5%B9%B6-k-%E4%B8%AA%E5%8D%87%E5%BA%8F%E9%93%BE%E8%A1%A8.cpp) <font style="background: red">*H*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/merge-k-sorted-lists/solution/duo-tu-yan-shi-23-he-bing-kge-pai-xu-lian-biao-by-/)
 - ***链表遍历 双指针***
