@@ -104,6 +104,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/valid-palindrome/solution/yan-zheng-hui-wen-chuan-by-leetcode-solution/)  
 - ***双指针 对撞指针 c库函数 isalmun() tolower()***
 
+###  Question 131 [分割回文串](/problems/131.%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2.cpp)  <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/palindrome-partitioning/solution/131-fen-ge-hui-wen-chuan-hui-su-sou-suo-yp2jq/)  
+- ***回溯 回文***
+
 ### Question 137 [只出现一次的数字-ii](problems/137.只出现一次的数字-ii.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/single-number-ii/solution/zhi-chu-xian-yi-ci-de-shu-zi-ii-by-leetc-23t6/)
 
