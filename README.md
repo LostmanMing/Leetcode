@@ -76,6 +76,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/sqrtx/solution/x-de-ping-fang-gen-by-gpe3dbjds1/)
 - ***sqrt() 二分***
 
+### Question 70 [爬楼梯](problems/70.%E7%88%AC%E6%A5%BC%E6%A2%AF.cpp) <font style="background: green">*E*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/sqrtx/solution/x-de-ping-fang-gen-by-gpe3dbjds1/)
+- ***动态规划***
+
 ### Question 76 [最小覆盖子串](problems/76.%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.cpp) <font style="background: RED">*H*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/minimum-window-substring/solution/tong-su-qie-xiang-xi-de-miao-shu-hua-dong-chuang-k/)
 - ***滑动窗口 双指针 哈希表***
@@ -229,6 +233,10 @@
 ### Question 445 [两数相加-ii](problems/445.%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0-ii.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/add-two-numbers-ii/solution/liang-shu-xiang-jia-ii-by-leetcode-solution/) 
 - ***链表 栈 逆序处理***
+
+### Question 509 [找树左下角的值](problems/509.%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0.cpp) <font style="background: green">*E*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/find-bottom-left-tree-value/solution/zhao-shu-zuo-xia-jiao-de-zhi-by-leetcode-weeh/) 
+- ***斐波那契数列 动态规划**
 
 ### Question 513 [找树左下角的值](problems/513.%E6%89%BE%E6%A0%91%E5%B7%A6%E4%B8%8B%E8%A7%92%E7%9A%84%E5%80%BC.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/find-bottom-left-tree-value/solution/zhao-shu-zuo-xia-jiao-de-zhi-by-leetcode-weeh/) 
