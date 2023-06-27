@@ -77,7 +77,7 @@
 - ***sqrt() 二分***
 
 ### Question 70 [爬楼梯](problems/70.%E7%88%AC%E6%A5%BC%E6%A2%AF.cpp) <font style="background: green">*E*</font>
-- [x] [题解思路/解题流程](https://leetcode.cn/problems/sqrtx/solution/x-de-ping-fang-gen-by-gpe3dbjds1/)
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/climbing-stairs/solution/dai-ma-sui-xiang-lu-dong-tai-gui-hua-jin-y1hw/)
 - ***动态规划***
 
 ### Question 76 [最小覆盖子串](problems/76.%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.cpp) <font style="background: RED">*H*</font>
@@ -234,8 +234,8 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/add-two-numbers-ii/solution/liang-shu-xiang-jia-ii-by-leetcode-solution/) 
 - ***链表 栈 逆序处理***
 
-### Question 509 [找树左下角的值](problems/509.%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0.cpp) <font style="background: green">*E*</font>
-- [x] [题解思路/解题流程](https://leetcode.cn/problems/find-bottom-left-tree-value/solution/zhao-shu-zuo-xia-jiao-de-zhi-by-leetcode-weeh/) 
+### Question 509 [斐波那契数](problems/509.%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0.cpp) <font style="background: green">*E*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/fibonacci-number/solution/dai-ma-sui-xiang-lu-509-fei-bo-na-qi-shu-n389/) 
 - ***斐波那契数列 动态规划**
 
 ### Question 513 [找树左下角的值](problems/513.%E6%89%BE%E6%A0%91%E5%B7%A6%E4%B8%8B%E8%A7%92%E7%9A%84%E5%80%BC.cpp) <font style="background: yellow">*M*</font>
@@ -324,6 +324,10 @@
 ### Question 739 [行星碰撞](problems/739.%E6%AF%8F%E6%97%A5%E6%B8%A9%E5%BA%A6.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/daily-temperatures/solution/leetcode-tu-jie-739mei-ri-wen-du-by-misterbooo/)
 - ***单调递减栈***
+
+### Question 746 [使用最小花费爬楼梯](problems/746.%E4%BD%BF%E7%94%A8%E6%9C%80%E5%B0%8F%E8%8A%B1%E8%B4%B9%E7%88%AC%E6%A5%BC%E6%A2%AF.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/min-cost-climbing-stairs/solution/zui-xiao-hua-fei-pa-lou-ti-jing-dian-don-99fr/)
+- ***代码随想录***
 
 ### Question 814 [二叉树剪枝](problems/814.%E4%BA%8C%E5%8F%89%E6%A0%91%E5%89%AA%E6%9E%9D.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/binary-tree-pruning/solution/tong-su-yi-dong-by-mei-tian-duo-zuo-yi-d-9hz1/)
