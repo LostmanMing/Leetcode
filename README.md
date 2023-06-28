@@ -69,6 +69,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/merge-intervals/solution/xian-pai-xu-zai-he-bing-yun-han-yi-dian-e618f/)
 - ***排序***
 
+### Question 62 [不同路径](problems/62.%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/unique-paths/solution/dai-ma-sui-xiang-lu-dong-gui-wu-bu-qu-xi-1vkb/)
+- ***动态规划 路径和 二维dp***
+
 ### Question 67 [二进制求和](problems/67.二进制求和.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/JFETK5/solution/jian-dan-yi-dong-javacpythonjs-pei-yang-r6bem/)
 
@@ -236,7 +240,7 @@
 
 ### Question 509 [斐波那契数](problems/509.%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/fibonacci-number/solution/dai-ma-sui-xiang-lu-509-fei-bo-na-qi-shu-n389/) 
-- ***斐波那契数列 动态规划**
+- ***斐波那契数列 动态规划***
 
 ### Question 513 [找树左下角的值](problems/513.%E6%89%BE%E6%A0%91%E5%B7%A6%E4%B8%8B%E8%A7%92%E7%9A%84%E5%80%BC.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/find-bottom-left-tree-value/solution/zhao-shu-zuo-xia-jiao-de-zhi-by-leetcode-weeh/) 
@@ -327,7 +331,7 @@
 
 ### Question 746 [使用最小花费爬楼梯](problems/746.%E4%BD%BF%E7%94%A8%E6%9C%80%E5%B0%8F%E8%8A%B1%E8%B4%B9%E7%88%AC%E6%A5%BC%E6%A2%AF.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/min-cost-climbing-stairs/solution/zui-xiao-hua-fei-pa-lou-ti-jing-dian-don-99fr/)
-- ***代码随想录***
+- ***动态规划***
 
 ### Question 814 [二叉树剪枝](problems/814.%E4%BA%8C%E5%8F%89%E6%A0%91%E5%89%AA%E6%9E%9D.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/binary-tree-pruning/solution/tong-su-yi-dong-by-mei-tian-duo-zuo-yi-d-9hz1/)
