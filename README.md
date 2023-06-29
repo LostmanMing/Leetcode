@@ -158,6 +158,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/binary-search-tree-iterator/solution/xiang-jie-ru-he-dui-die-dai-ban-de-zhong-4rxj/)
 - ***二叉搜索树 迭代中序遍历 栈 dfs***
 
+### Question 198 [打家劫舍](problems/198.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/house-robber/solution/dai-ma-sui-xiang-lu-dai-ni-xue-tou-dong-ezvt3/)
+- ***动态规划 打家劫舍***
+
 ### Question 199 [二叉树的右视图](problems/199.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%8F%B3%E8%A7%86%E5%9B%BE.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/binary-tree-right-side-view/solution/cjie-fa-ceng-xu-bian-li-de-gai-jin-by-yo-yrbz/)
 - ***二叉树 层序优先遍历（从右向左）***
