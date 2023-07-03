@@ -379,6 +379,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/complete-binary-tree-inserter/solution/wan-quan-er-cha-shu-cha-ru-qi-by-leetcod-lf8t/)
 - ***队列 二叉树 层序优先遍历***
 
+### Question 926 [将字符串翻转到单调递增](problems/926.%E5%B0%86%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%BF%BB%E8%BD%AC%E5%88%B0%E5%8D%95%E8%B0%83%E9%80%92%E5%A2%9E.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/flip-string-to-monotone-increasing/solution/by-jin-xi-he-xi-h-68eq/)
+- ***动态规划 二维dp***
+
 ### Question 933 [最近的请求次数](problems/933.%E6%9C%80%E8%BF%91%E7%9A%84%E8%AF%B7%E6%B1%82%E6%AC%A1%E6%95%B0.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/number-of-recent-calls/solution/by-nehzil-9het/)
 - ***队列***
