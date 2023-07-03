@@ -371,6 +371,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/koko-eating-bananas/solution/by-meteordream-p760/)
 - ***二分***
 
+### Question 873 [最长的斐波那契子序列的长度](problems/873.%E6%9C%80%E9%95%BF%E7%9A%84%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E5%AD%90%E5%BA%8F%E5%88%97%E7%9A%84%E9%95%BF%E5%BA%A6.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/solution/dong-tai-gui-hua-fang-fa-dai-ma-zhu-xing-fen-xi-by/)
+- ***动态规划 二维dp***
+
 ### Question 897 [递增顺序搜索树](problems/897.%E9%80%92%E5%A2%9E%E9%A1%BA%E5%BA%8F%E6%90%9C%E7%B4%A2%E6%A0%91.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/increasing-order-search-tree/solution/zhong-xu-bian-li-shuang-bai-tong-guo-by-jesse-42/)
 - ***二叉树 dfs 中序遍历***
