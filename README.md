@@ -197,6 +197,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/valid-anagram/solution/you-xiao-de-zi-mu-yi-wei-ci-by-leetcode-solution/)  
 - ***哈希表***
 
+###  Question 256 [粉刷房子](/problems/256.%E7%B2%89%E5%88%B7%E6%88%BF%E5%AD%90.cpp)  <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/JEj789/solution/by-nehzil-95v3/)  
+- ***动态规划 二维dp数组***
+
 ###  Question 285 [二叉搜索树中的中序后继](/problems/285.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E4%B8%AD%E5%BA%8F%E5%90%8E%E7%BB%A7.cpp)  <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/P5rCT8/solution/053dfs-by-harry666-ywrn/)  
 - ***二叉搜索树 中序遍历 dfs***
