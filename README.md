@@ -124,6 +124,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/palindrome-partitioning/solution/131-fen-ge-hui-wen-chuan-hui-su-sou-suo-yp2jq/)  
 - ***回溯 回文***
 
+###  Question 132 [分割回文串-ii](/problems/132.%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2-ii.cpp)  <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/palindrome-partitioning-ii/solution/132-fen-ge-hui-wen-chuan-iidong-tai-gui-3hqva/)  
+- ***动态规划 回文***
+
 ### Question 137 [只出现一次的数字-ii](problems/137.只出现一次的数字-ii.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/single-number-ii/solution/zhi-chu-xian-yi-ci-de-shu-zi-ii-by-leetc-23t6/)
 
@@ -270,6 +274,10 @@
 ### Question 515 [在每个树行中找最大值](problems/515.%E5%9C%A8%E6%AF%8F%E4%B8%AA%E6%A0%91%E8%A1%8C%E4%B8%AD%E6%89%BE%E6%9C%80%E5%A4%A7%E5%80%BC.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/solution/zai-mei-ge-shu-xing-zhong-zhao-zui-da-zh-6xbs/) 
 - ***二叉树 队列 层序优先遍历***
+
+### Question 516 [最长回文子序列](problems/516.%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E5%BA%8F%E5%88%97.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/longest-palindromic-subsequence/solution/516-zui-chang-hui-wen-zi-xu-lie-dong-tai-hap0/) 
+- ***动态规划 二维dp表示范围***
 
 ### Question 525 [连续数组](problems/525.%E8%BF%9E%E7%BB%AD%E6%95%B0%E7%BB%84.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/A1NYOS/solution/0-he-1-ge-shu-xiang-tong-de-zi-shu-zu-by-xbyt/) 
