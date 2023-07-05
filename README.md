@@ -214,6 +214,10 @@
 - [x] [动画展示dfs前中后序遍历二叉树](https://www.bilibili.com/video/BV1MF41147Ga/?spm_id_from=333.337.search-card.all.click&vd_source=41cf0bf8fd5d0fd2788aa7ff7dd66abc)
 - ***二叉树 dfs遍历/构造二叉树***
 
+### Question 300 [最长递增子序列](problems/300.%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/longest-increasing-subsequence/solution/dai-ma-sui-xiang-lu-leetcode300zui-chang-sh5m/)
+- ***动态规划***
+
 ### Question 304 [二维区域和检索-矩阵不可变](problems/304.%E4%BA%8C%E7%BB%B4%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2-%E7%9F%A9%E9%98%B5%E4%B8%8D%E5%8F%AF%E5%8F%98.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/range-sum-query-2d-immutable/solution/ru-he-qiu-er-wei-de-qian-zhui-he-yi-ji-y-6c21/)
 - ***前缀和矩阵***
@@ -317,6 +321,10 @@
 ### Question 653 [两数之和-iv-输入二叉搜索树](problems/653.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C-iv-%E8%BE%93%E5%85%A5%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/two-sum-iv-input-is-a-bst/solution/dfs-shuang-zhi-zhen-by-stupefied-i2ide0s-5isv/) 
 - ***二叉搜索树 dfs 双指针***
+
+### Question 674 [最长连续递增序列](problems/674.%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E9%80%92%E5%A2%9E%E5%BA%8F%E5%88%97.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/longest-continuous-increasing-subsequence/solution/dai-ma-sui-xiang-lu-leetcode674zui-chang-3c7s/) 
+- ***动态规划***
 
 ### Question 676 [实现一个魔法字典](problems/676.%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E9%AD%94%E6%B3%95%E5%AD%97%E5%85%B8.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/US1pGT/solution/jian-zhi-offer-2-mian-shi-ti-64-shu-zhon-uctz/) 
