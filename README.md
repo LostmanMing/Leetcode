@@ -349,6 +349,10 @@
 ### Question 713 [乘积小于-k-的子数组](problems/713.%E4%B9%98%E7%A7%AF%E5%B0%8F%E4%BA%8E-k-%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/ZVAVXX/solution/cheng-ji-xiao-yu-k-de-zi-shu-zu-by-leetc-xqx8/)
 
+### Question 718 [最长重复子数组](problems/718.%E6%9C%80%E9%95%BF%E9%87%8D%E5%A4%8D%E5%AD%90%E6%95%B0%E7%BB%84.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/maximum-length-of-repeated-subarray/solution/dai-ma-sui-xiang-lu-718-zui-chang-zhong-rowbh/)
+- ***动态规划***
+
 ### Question 724 [寻找数组的中心下标](problems/724.%E5%AF%BB%E6%89%BE%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E5%BF%83%E4%B8%8B%E6%A0%87.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/tvdfij/solution/zuo-you-liang-bian-zi-shu-zu-de-he-xiang-5j4r/)
 - ***前缀和  accumulate求和***
@@ -414,3 +418,7 @@
 ### Question 1122 [数组的相对排序](problems/1122.%E6%95%B0%E7%BB%84%E7%9A%84%E7%9B%B8%E5%AF%B9%E6%8E%92%E5%BA%8F.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/relative-sort-array/solution/xi-guan-xing-xiang-dao-yong-mapbiao-shi-shu-zi-yu-/)
 - ***排序 有序map 数组及频率***
+
+### Question 1143 [最长公共子序列](problems/1143.%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/longest-common-subsequence/solution/dai-ma-sui-xiang-lu-dai-ni-xue-tou-dpzi-zqa9q/)
+- ***动态规划***
