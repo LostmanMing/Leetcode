@@ -251,6 +251,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/insert-delete-getrandom-o1/solution/cchang-shu-shi-jian-cha-ru-shan-chu-he-huo-qu-sui-/) 
 - ***数据结构运用 hash vector O(1)***
 
+### Question 392 [判断子序列](problems/392.%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/is-subsequence/solution/392-pan-duan-zi-xu-lie-dong-tai-gui-hua-uy8mb/) 
+- ***动态规划***
+
 ### Question 421 [数组中两个数的最大异或值](problems/421.%E6%95%B0%E7%BB%84%E4%B8%AD%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E5%BC%82%E6%88%96%E5%80%BC.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/ms70jA/) 
 - ***字典树 两数异或^***
