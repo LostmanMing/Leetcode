@@ -77,6 +77,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/unique-paths-ii/solution/dai-ma-sui-xiang-lu-63-bu-tong-lu-jing-i-dha9/)
 - ***动态规划 路径和 二维dp***
 
+### Question 64 [最小路径和](problems/64.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/minimum-path-sum/solution/dong-tai-gui-hua-lu-jing-wen-ti-ni-bu-ne-fkil/)
+- ***动态规划 路径和 二维dp***
+
 ### Question 67 [二进制求和](problems/67.二进制求和.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/JFETK5/solution/jian-dan-yi-dong-javacpythonjs-pei-yang-r6bem/)
 
@@ -114,6 +118,10 @@
 
 ### Question 97 [交错字符串](problems/97.%E4%BA%A4%E9%94%99%E5%AD%97%E7%AC%A6%E4%B8%B2.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/interleaving-string/solution/by-p8vxdbjpmc-kmio/)
+- ***动态规划***
+
+### Question 120 [三角形最小路径和](problems/120.%E4%B8%89%E8%A7%92%E5%BD%A2%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/triangle/solution/by-8hasefu1-48xh/)
 - ***动态规划***
 
 ###  Question 124 [二叉树中的最大路径和](/problems/124.%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E8%B7%AF%E5%BE%84%E5%92%8C.cpp)  <font style="background: green">*E*</font>
