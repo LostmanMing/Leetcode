@@ -287,6 +287,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/add-two-numbers-ii/solution/liang-shu-xiang-jia-ii-by-leetcode-solution/) 
 - ***链表 栈 逆序处理***
 
+### Question 494 [目标和](problems/494.%E7%9B%AE%E6%A0%87%E5%92%8C.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/target-sum/solution/dai-ma-sui-xiang-lu-494-mu-biao-he-01bei-rte9/) 
+- ***动态规划 0-1背包***
+
 ### Question 509 [斐波那契数](problems/509.%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/fibonacci-number/solution/dai-ma-sui-xiang-lu-509-fei-bo-na-qi-shu-n389/) 
 - ***斐波那契数列 动态规划***
