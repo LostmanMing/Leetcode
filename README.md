@@ -259,6 +259,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/find-k-pairs-with-smallest-sums/solution/cqing-xi-jian-ji-dai-ma-by-xiaohu9527-kc1x/) 
 - ***优先队列priority_queue***
 
+### Question 377 [组合总和-ⅳ](problems/377.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C-%E2%85%B3.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/combination-sum-iv/solution/dai-ma-sui-xiang-lu-377-zu-he-zong-he-iv-pj9s/) 
+- ***动态规划 完全背包 排列数***
+
 ### Question 380 [o-1-时间插入、删除和获取随机元素](problems/380.o-1-%E6%97%B6%E9%97%B4%E6%8F%92%E5%85%A5%E3%80%81%E5%88%A0%E9%99%A4%E5%92%8C%E8%8E%B7%E5%8F%96%E9%9A%8F%E6%9C%BA%E5%85%83%E7%B4%A0.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/insert-delete-getrandom-o1/solution/cchang-shu-shi-jian-cha-ru-shan-chu-he-huo-qu-sui-/) 
 - ***数据结构运用 hash vector O(1)***
@@ -310,6 +314,10 @@
 ### Question 516 [最长回文子序列](problems/516.%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E5%BA%8F%E5%88%97.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/longest-palindromic-subsequence/solution/516-zui-chang-hui-wen-zi-xu-lie-dong-tai-hap0/) 
 - ***动态规划 二维dp表示范围***
+
+### Question 518 [零钱兑换-ii](problems/518.%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2-ii.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://programmercarl.com/0518.%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2II.html) 
+- ***动态规划 完全背包 组合数***
 
 ### Question 525 [连续数组](problems/525.%E8%BF%9E%E7%BB%AD%E6%95%B0%E7%BB%84.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/A1NYOS/solution/0-he-1-ge-shu-xiang-tong-de-zi-shu-zu-by-xbyt/) 
