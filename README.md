@@ -236,6 +236,10 @@
 ### Question 318 [最大单词长度乘积](problems/318.最大单词长度乘积.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/aseY1I/solution/pu-tong-ren-bao-kan-dong-de-jian-dan-dai-2ds0/)
 
+### Question 332 [零钱兑换](problems/322.%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/coin-change/solution/dai-ma-sui-xiang-lu-dai-ni-xue-tou-wan-q-80r7/)
+- ***动态规划 完全背包***
+
 ### Question 337 [打家劫舍-iii](problems/337.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D-iii.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/house-robber-iii/solution/dai-ma-sui-xiang-lu-337-da-jia-jie-she-i-j60v/)
 - ***动态规划 打家劫舍 二叉树 dfs 后序遍历***
