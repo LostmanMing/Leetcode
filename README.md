@@ -339,6 +339,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/single-element-in-a-sorted-array/solution/wei-rao-li-lun-lognfu-za-du-er-fen-jie-j-w2rr/) 
 - ***二分***
 
+### Question 542 [01-矩阵](problems/542.01-%E7%9F%A9%E9%98%B5.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程] --chatgpt 
+- ***BFS 图论***
+
 ### Question 560 [和为-k-的子数组](problems/560.%E5%92%8C%E4%B8%BA-k-%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/subarray-sum-equals-k/solution/he-wei-kde-zi-shu-zu-by-leetcode-solution/) 
 - ***前缀和 + 哈希表***
