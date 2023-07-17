@@ -422,6 +422,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/min-cost-climbing-stairs/solution/zui-xiao-hua-fei-pa-lou-ti-jing-dian-don-99fr/)
 - ***动态规划***
 
+### Question 752 [打开转盘锁](problems/752.%E6%89%93%E5%BC%80%E8%BD%AC%E7%9B%98%E9%94%81.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/open-the-lock/solution/c-bfs-jie-jue-zhuan-dong-kai-suo-by-bei-lpvye/)
+- ***BFS 图论***
+
 ### Question 785 [判断二分图](problems/785.%E5%88%A4%E6%96%AD%E4%BA%8C%E5%88%86%E5%9B%BE.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/is-graph-bipartite/solution/c-er-fen-tu-pan-ding-ran-se-fa-by-kayleh-i63m/)
 - ***图 dfs***
