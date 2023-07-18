@@ -240,6 +240,10 @@
 ### Question 318 [最大单词长度乘积](problems/318.最大单词长度乘积.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/aseY1I/solution/pu-tong-ren-bao-kan-dong-de-jian-dan-dai-2ds0/)
 
+### Question 329 [矩阵中的最长递增路径](problems/329.%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E8%B7%AF%E5%BE%84.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程] - chatgpt
+- ***图论 dfs 动态规划***
+
 ### Question 332 [零钱兑换](problems/322.%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/coin-change/solution/dai-ma-sui-xiang-lu-dai-ni-xue-tou-wan-q-80r7/)
 - ***动态规划 完全背包***
@@ -429,6 +433,10 @@
 ### Question 785 [判断二分图](problems/785.%E5%88%A4%E6%96%AD%E4%BA%8C%E5%88%86%E5%9B%BE.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/is-graph-bipartite/solution/c-er-fen-tu-pan-ding-ran-se-fa-by-kayleh-i63m/)
 - ***图 dfs***
+
+### Question 797 [所有可能的路径](problems/797.%E6%89%80%E6%9C%89%E5%8F%AF%E8%83%BD%E7%9A%84%E8%B7%AF%E5%BE%84.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/all-paths-from-source-to-target/solution/by-carlsun-2-66pf/)
+- ***图 dfs 回溯***
 
 ### Question 814 [二叉树剪枝](problems/814.%E4%BA%8C%E5%8F%89%E6%A0%91%E5%89%AA%E6%9E%9D.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/binary-tree-pruning/solution/tong-su-yi-dong-by-mei-tian-duo-zuo-yi-d-9hz1/)
