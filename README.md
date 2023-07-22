@@ -197,6 +197,10 @@
 ### Question 209 [长度最小的子数组](problems/209.%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/2VG8Kg/solution/he-da-yu-deng-yu-target-de-zui-duan-zi-s-ixef/)
 
+### Question 210 [课程表-ii](problems/210.课程表-ii.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/course-schedule-ii/solution/210-by-ikaruga/)
+- ***图论 BFS 拓扑排序***
+
 ### Question 213 [打家劫舍-ii](problems/213.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D-ii.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/house-robber-ii/solution/dai-ma-sui-xiang-lu-leetcode213da-jia-ji-tca6/)
 - ***动态规划 打家劫舍 二叉树 dfs 后序遍历***
@@ -349,6 +353,10 @@
 
 ### Question 542 [01-矩阵](problems/542.01-%E7%9F%A9%E9%98%B5.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程] --chatgpt 
+- ***BFS 图论***
+
+### Question 542 [省份数量](problems/547.省份数量.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/number-of-provinces/solution/bfs-fu-zhu-dui-lie-wang-dao-bfsmo-ban-by-9t2c/)
 - ***BFS 图论***
 
 ### Question 560 [和为-k-的子数组](problems/560.%E5%92%8C%E4%B8%BA-k-%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.cpp) <font style="background: yellow">*M*</font>
