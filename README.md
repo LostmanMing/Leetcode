@@ -394,6 +394,10 @@
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/RQku0D/solution/zui-duo-shan-chu-yi-ge-zi-fu-de-dao-hui-30b55/)
 - ***双指针***
 
+### Question 684 [冗余连接](problems/684.冗余连接.cpp) <font style="background: yellow">*M*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/redundant-connection/solution/684-rong-yu-lian-jie-bing-cha-ji-ji-chu-eartc/)
+- ***无向图 并查集 图论***
+
 ### Question 695 [岛屿的最大面积](problems/695.%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF.cpp) <font style="background: green">*E*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/max-area-of-island/solution/by-carlsun-2-s4tj/)
 - ***图论 dfs***
@@ -454,6 +458,10 @@
 ### Question 820 [单词的压缩编码](problems/820.%E5%8D%95%E8%AF%8D%E7%9A%84%E5%8E%8B%E7%BC%A9%E7%BC%96%E7%A0%81.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/short-encoding-of-words/solution/shou-si-zi-dian-shu-trie-shu-c-by-time-limit/)
 - ***字典树 递归***
+
+### Question 839 [相似字符串组](problems/839.相似字符串组.cpp) <font style="background: red">*H*</font>
+- [x] [题解思路/解题流程](https://leetcode.cn/problems/similar-string-groups/solution/by-wo-yao-chu-qu-luan-shuo-yrb5/)
+- ***图论 DFS + BFS***
 
 ### Question 852 [山脉数组的峰顶索引](problems/852.%E5%B1%B1%E8%84%89%E6%95%B0%E7%BB%84%E7%9A%84%E5%B3%B0%E9%A1%B6%E7%B4%A2%E5%BC%95.cpp) <font style="background: yellow">*M*</font>
 - [x] [题解思路/解题流程](https://leetcode.cn/problems/B1IidL/solution/wei-rao-li-lun-kan-dao-logn-jiu-shi-er-f-csom/)
