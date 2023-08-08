@@ -96,7 +96,7 @@ public:
                 l.push_back(str);
                 str.clear();
             }else{
-                str.push_back(s);
+                str.push_back(s);     //别忘了else，否则','也进去了
             }
         }
         if(!str.empty()){
