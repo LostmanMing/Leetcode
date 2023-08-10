@@ -41,7 +41,7 @@ public:
     bool containsNearbyAlmostDuplicate(vector<int>& nums, int indexDiff, int valueDiff) {
         unordered_map<LL,LL> mp;   // idx nums[i]
         int n = nums.size();
-        size = valueDiff + 1;
+        size = valueDiff + 1;  //加1是因为 <= valueDiff，可以让等于的情况也进来
         for(int i = 0;i < n;i++){
             LL val = nums[i] * 1L;
             int idx = getID(val);
@@ -63,6 +63,7 @@ public:
 private:
     LL size;
     int getID(LL n){
+        //-1是为了避免0附近的负数分到正数桶中和0一起。u+1是为了负数的=valueDiff的边界也能在同一个桶中
         return n >= 0 ? (n / size) : (n + 1) / size - 1;
     }
 };
