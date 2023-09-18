@@ -36,19 +36,18 @@ public:
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
         int sum = accumulate(nums.begin(),nums.end(),0);
+        int target  = sum / 2;
+        if(sum % 2 != 0) return false;
 
-        if(sum % 2 == 1) return false;
-        int target = sum / 2;
-        vector<int> dp(target+1, 0);
-        for(int i = 0;i < nums.size();i++){
+        vector<int> dp(target + 1,0);
+        for(int i = 0;i < n;i++){
             for(int j = target;j >= nums[i];j--){
-                dp[j] = max(dp[j],dp[j-nums[i]]+nums[i]);
+                dp[j] = max(dp[j],dp[j-nums[i]] + nums[i]);
             }
         }
         if(dp[target] == target){
             return true;
-        }
-        return false;
+        }else return false;
     }
 };
 // @lc code=end
